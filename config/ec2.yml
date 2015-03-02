@@ -1,0 +1,3 @@
+:aws_params:
+  :region: 'us-east-1'
+:project_tag: 'rhodes'
